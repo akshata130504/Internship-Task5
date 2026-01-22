@@ -51,24 +51,36 @@ Open terminal / command prompt in the `src` directory and run:
 ## 💻 Sample Console Output
 
 Enter number of elements: 5
+
 Enter element 1: 10
+
 Enter element 2: 5
+
 Enter element 3: 20
+
 Enter element 4: 8
+
 Enter element 5: 15
 
 --- Data Analysis Result ---
+
 Sum: 58
+
 Average: 11.60
+
 Maximum: 20
+
 Minimum: 5
+
 Sorted Array: 5 8 10 15 20
 
 2D Array Elements:
+
 1 2 3
 4 5 6
 
 Accessing invalid index:
+
 Exception caught: Array index out of bounds.
 
 
